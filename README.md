@@ -4,8 +4,8 @@ Trabalho de conclusão do curso de python 2020.1 - IMD (Integra School) sobre a 
 
 Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesunidas.org/pos2015/agenda2030/ <<<
 
-- Grupo -
-Membro(1): Lhayana Vieira de Macedo
-Membro(2): Júlio César da Silva Filho
-Membro(3): Kewen Yuri Andrade da Costa
-Membro(4): Pedro Henrique Mendes Xavier
+## Grupo -
+# Membro(1): Lhayana Vieira de Macedo
+# Membro(2): Júlio César da Silva Filho
+# Membro(3): Kewen Yuri Andrade da Costa
+# Membro(4): Pedro Henrique Mendes Xavier
