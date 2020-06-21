@@ -6,8 +6,8 @@ Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesu
 
 ## Grupo
 <ul>
-<li>Membro (2): Júlio César da Silva Filho</li>
-<li>Membro (3): Kewen Yuri Andrade da Costa</li>
-<li>Membro (1): Lhayana Vieira de Macedo</li>
+<li>Membro (1): Júlio César da Silva Filho</li>
+<li>Membro (2): Kewen Yuri Andrade da Costa</li>
+<li>Membro (3): Lhayana Vieira de Macedo</li>
 <li>Membro (4): Pedro Henrique Mendes Xavier</li>
   </ul>
