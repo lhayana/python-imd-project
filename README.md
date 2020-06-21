@@ -4,10 +4,13 @@ Trabalho de conclusão do curso de python 2020.1 - IMD (Integra School) sobre a 
 
 Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesunidas.org/pos2015/agenda2030/ <<<
 
-##Informações básicas:
+## Informações básicas:
 
-* Universidade Federal do Rio Grande do Norte - Instituto Metropole Digital
+* Universidade Federal do Rio Grande do Norte (**UFRN**) - Instituto Metropole Digital (**IMD**)
 
+* Integra School >>> Site: https://www.imd.ufrn.br/portal/noticias/6002/integra-school-abre-160-vagas-para-cursos-de-programação-python-e-sistemas-centos <<<
+
+* **Curso:** “Introdução à Programação com Python”
 
 ## Grupo
 <ul>
