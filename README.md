@@ -16,8 +16,8 @@ Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesu
 
 ## Grupo
 <ul>
-<li>Membro (1): Júlio César da Silva Filho / **Github: https://github.com/Julio-CSilva **</li>
+<li>Membro (1): Júlio César da Silva Filho / Github: https://github.com/Julio-CSilva </li>
 <li>Membro (2): Kewen Yuri Andrade da Costa</li>
-<li>Membro (3): Lhayana Vieira de Macedo / **Github:** https://github.com/lhayana </li>
-<li>Membro (4): Pedro Henrique Mendes Xavier</li>
+<li>Membro (3): Lhayana Vieira de Macedo / Github: https://github.com/lhayana </li>
+<li>Membro (4): Pedro Henrique Mendes Xavier / Github: https://github.com/Pedro-2201 </li>
   </ul>
