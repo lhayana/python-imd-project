@@ -14,7 +14,7 @@ Link de acesso para o site que contém as iniciativas da Onu >>> https://nacoesu
 
 * **Professor:** Carlos Artur Guimarães
 
-* **Vídeo de apresentação do projeto** >>> https://www.youtube.com/watch?v=gLg15b_2cbM&feature=youtu.be <<<
+* **Apresentação do projeto** >>> https://www.youtube.com/watch?v=gLg15b_2cbM&feature=youtu.be <<<
 
 ## Grupo
 <ul>
